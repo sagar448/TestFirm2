@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "esp_event.h": "c",
+        "tcpip_adapter.h": "c",
+        "esp_eth.h": "c"
+    }
+}

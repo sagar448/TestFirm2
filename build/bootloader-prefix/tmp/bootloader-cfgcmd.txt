@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMake/bin/cmake.exe;-DSDKCONFIG=C:/Users/Sagarr/Desktop/thing_shadow/sdkconfig;-DIDF_PATH=C:/Users/Sagarr/Desktop/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DEXTRA_COMPONENT_DIRS=C:/Users/Sagarr/Desktop/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
